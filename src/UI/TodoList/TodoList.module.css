@@ -1,0 +1,6 @@
+.list {
+  background-color: white;
+  height: 290px;
+  overflow-y: scroll;
+  scrollbar-width: none;
+}

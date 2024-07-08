@@ -1,0 +1,11 @@
+.container {
+  width: 50%;
+}
+
+.emptyList {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  transform: translate(0, -50%);
+  opacity: .5;
+}

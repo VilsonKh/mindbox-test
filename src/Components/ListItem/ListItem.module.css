@@ -1,0 +1,20 @@
+
+.listDecor {
+  display: inline-block;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  border: 1px solid gray;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.completedIcon {
+  width: 14px;
+
+}
+
+.text {
+  font-size: 1.2rem;
+}
